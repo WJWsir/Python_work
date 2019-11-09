@@ -1,3 +1,10 @@
 1）主程序
 main.py
 2）请根据提示依次输入身份证号码即可完成验证以及解析
+step1:Download all this file
+
+step2:Open and run the module which name is main.py
+
+step3:Input the ID number required to be analysed and if you wanner exit, please enter 'q'
+
+serp4:Surprise! The info you wanted have displayed!
